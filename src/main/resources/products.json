@@ -1,0 +1,26 @@
+[
+	{
+		"id": 1,
+		"nombre": "Laptop_Json",
+		"precio": 15.0,
+		"stock": 5
+	},
+	{
+		"id": 2,
+		"nombre": "Celular_Json",
+		"precio": 500.0,
+		"stock": 5
+	},
+	{
+		"id": 3,
+		"nombre": "Tablet",
+		"precio": 164.99,
+		"stock": 5
+	},
+	{
+		"id": 4,
+		"nombre": "Mouse",
+		"precio": 150.0,
+		"stock": 5
+	}
+]
